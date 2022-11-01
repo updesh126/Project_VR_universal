@@ -28,6 +28,7 @@ public class InforShow : MonoBehaviour
         else
         {
             InfoObject.SetActive(false);
+            Show = false;
         }
     }
 
